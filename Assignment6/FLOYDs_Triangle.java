@@ -11,9 +11,9 @@ public class FLOYDs_Triangle {
 //      Outer loop
         for (int i=1;i<=n;i++){
 
-//      innner loop for logic
+//      inner loop for logic
             for (int j=1;j<=i;j++){
-                System.out.print(counter);
+                System.out.print(counter+" ");
                 counter++;
             }
             System.out.println();

@@ -28,7 +28,7 @@ public class BinarySearch {
         System.out.print("Enter the Key:- ");
         int Key = sc.nextInt();
 
-        int Number[] = {2,4,6,8,10,12,14};
+        int Number[] = {2,4,6,8,10,12,14,16};
 
 
         if (Search(Number,Key) == -1){
